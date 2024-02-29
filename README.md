@@ -14,7 +14,7 @@ In this app, you will be creating a “choose your own adventure” game similar
 
 ## Story Strings
 ```
-        Story(
+          Story(
             title: "Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: 'Need a ride, boy?'.",
             choice1: "I'll hop in. Thanks for the help!", choice1Destination: 2,
             choice2: "Better ask him if he's a murderer first.", choice2Destination: 1
@@ -43,7 +43,7 @@ In this app, you will be creating a “choose your own adventure” game similar
             title: "You bond with the murderer while crooning verses of 'Can you feel the love tonight'. He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: 'Try the pier.'",
             choice1: "The", choice1Destination: 0,
             choice2: "End", choice2Destination: 0
-        )      
+        )   
 ```
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
